@@ -1,7 +1,7 @@
 # 3D-CPU-Renderer
 
-A simple 3D renderer written in C, running entirely on the CPU without using any graphics APIs.  
-It uses the Windows API to create a window and display a pixel buffer rendered in software.
+A simple 3D graphics renderer written in C, running entirely on the CPU without using any graphics APIs.
+It uses the Windows API to create a window and display a pixel buffer computed by the program.
 
 ---
 
@@ -19,13 +19,13 @@ It uses the Windows API to create a window and display a pixel buffer rendered i
 ## Result
 
 ### Cube  
-![cube](./media/Engine_3.gif)
+<img src="media/Engine_3.gif" width="300"/>
 
 ### Robot  
-![robot](./media/Engine_2.gif)
+<img src="media/Engine_2.gif" width="300"/>
 
 ### Sphere  
-![sphere](./media/Engine.gif)
+<img src="media/Engine.gif" width="300"/>
 
 ---
 
